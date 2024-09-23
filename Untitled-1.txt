@@ -1,0 +1,1897 @@
+<!-- ted smith -->
+ <h3>Best Seller</h3>
+ <!-- <br><br><br><br><br><br><br><br>
+ 
+ <div class="card">
+    <img src="tedsmith.jpeg" alt="Denim Jeans" style="width:100%">
+    <h1>Ted Smith</h1>
+    <p class="price">₹1990</p>
+    <p><button href="style project.css">SHOP NOW</button></p>
+  </div>
+
+  <div class="card1">
+    <img src="airvue lens.jpeg" alt="Denim Jeans" style="width:100%" height="100%">
+    <h1>Airvue</h1>
+    <p class="price1">₹990</p>
+    <p><button class="crdbtn1">SHOP NOW</button></p>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <h3></h3>
+
+  <div class="card2">
+    <img src="iflash.jpg" alt="Denim Jeans" style="width:100%" height="100%">
+    <h1>IFLASH</h1>
+    <p class="price1">₹2000</p>
+    <p><button class="crdbtn2">SHOP NOW</button></p>
+  </div>
+  <button class="button"><span>View Products</span></button>
+</div>
+
+
+<div class="card">
+    <img src="tedsmith.jpeg" alt="Denim Jeans" style="width:100%">
+    <h1>Ted Smith</h1>
+    <p class="price">₹1990</p>
+    <p><button href="style project.css">SHOP NOW</button></p>
+  </div>
+
+  <div class="card1">
+    <img src="airvue lens.jpeg" alt="Denim Jeans" style="width:100%" height="100%">
+    <h1>Airvue</h1>
+    <p class="price1">₹990</p>
+    <p><button class="crdbtn1">SHOP NOW</button></p>
+  </div>
+
+  <div class="card2">
+    <img src="iflash.jpg" alt="Denim Jeans" style="width:100%" height="100%">
+    <h1>IFLASH</h1>
+    <p class="price1">₹2000</p>
+    <p><button class="crdbtn2">SHOP NOW</button></p>
+  </div>
+  <button class="button"><span>View Products</span></button>
+</div> -->
+
+
+<!-- <h3>Shop By Brands</h3>
+        <br><br><br>
+        <div class="slider-logo">
+            <div class="slider-items">
+                <img src="guccilogo.png" alt="">
+                <img src="jhonjacobslogo.jpg" alt="">
+                <img src="raybanlogo.png" alt="">
+                <img src="fasttracklogo.jpeg" alt="">
+                <img src="oakleylogo.png" alt="">
+                <img src="titan logo.png" alt="">
+                <img src="calvinkelvin logo.png" alt="">
+                <img src="burberry logo.png" alt="">
+                <img src="carerra logo.png" alt="">
+                <img src="polaraid logo.png" alt="">
+                <img src="vogue eyewear logo.png" alt="">
+                <img src="vincent chase logo.jpg" alt="">
+
+                 -->
+
+/* product card */
+
+
+
+
+ /* h3, p {
+   margin: 0; 
+   padding-bottom: .5em;
+}
+
+h3 {
+  font-size: 1.2em;
+}
+
+p {
+  font-size: 1em;
+  font-weight: 300;
+}
+
+.container{
+  display: flex; */
+}
+
+
+/* PRODUCT CARD */
+/* .card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  max-height: 100%;
+  margin: auto;
+  text-align: center;
+  font-family: poppins;
+  position: relative;
+  right: 500px;
+  line-height: 1.8;}
+  
+  
+
+
+/* AIRVUE */
+/* .card1{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 350px;
+  max-height: fit-content;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+  position: relative;
+  line-height: 1.7;
+  bottom: 300px;
+  right: 20px;
+  
+
+}
+.crdbtn1{
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color: #09003a;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+.card1 button:hover {
+  opacity: 0.7;
+}
+
+
+
+.container3{
+    width: auto;
+    height: 1000px;
+    background-color: #add2fd;
+}
+
+
+/* IFLASH */
+.card2{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 350px;
+  height: auto;
+  
+  object-fit: cover;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+  position: relative;
+  line-height: 1.4;
+  left: 500px;
+  bottom: 620px;
+  
+
+}
+.crdbtn2{
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color: #00053b;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+.card2 button:hover {
+  opacity: 0.7;
+}
+
+.price {
+  color: rgb(14, 0, 77);
+  font-size: 22px;
+}
+
+.card button {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: rgb(255, 255, 255);
+  background-color: #070042;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+.card button:hover {
+  opacity: 0.7;
+} */
+
+
+
+.card .rating {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.card .rating .star {
+  color: gold;
+  margin-right: 5px;
+}
+
+.card .rating .count {
+  color: gray;
+}
+
+<div class="rating">
+            <span class="star">★</span>
+            <span class="star">★</span>
+            <span class="star">★</span>
+            <span class="star">★</span>
+            <span class="star">★</span>
+          </div>
+
+
+
+blogs crad
+
+
+
+      <div class="blog-card">
+         <input type="radio" name="select" id="tap-1" checked>
+         <input type="radio" name="select" id="tap-2">
+         <input type="radio" name="select" id="tap-3">
+         <input type="checkbox" id="imgTap">
+         <div class="sliders">
+            <label for="tap-1" class="tap tap-1"></label>
+            <label for="tap-2" class="tap tap-2"></label>
+            <label for="tap-3" class="tap tap-3"></label>
+         </div>
+         <div class="inner-part">
+            <label for="imgTap" class="img">
+            <img class="img-1" src="https://res.cloudinary.com/muhammederdem/image/upload/v1535759871/alessandro-capuzzi-799180-unsplash.jpg">
+            </label>
+            <div class="content content-1">
+               <span>26 December 2017</span>
+               <div class="title">
+                  Lorem Ipsum Dolor
+               </div>
+               <div class="text">
+                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo animi atque aliquid pariatur voluptatem numquam, quisquam. Neque est voluptates doloribus!
+               </div>
+               <button>Read more</button>
+            </div>
+         </div>
+         <div class="inner-part">
+            <label for="imgTap" class="img">
+            <img class="img-2" src="https://res.cloudinary.com/muhammederdem/image/upload/v1535759871/jason-leung-798979-unsplash.jpg">
+            </label>
+            <div class="content content-2">
+               <span>26 December 2018</span>
+               <div class="title">
+                  Lorem Ipsum Dolor
+               </div>
+               <div class="text">
+                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum eos ut consectetur numquam ullam fuga animi laudantium nobis rem molestias.
+               </div>
+               <button>Read more</button>
+            </div>
+         </div>
+         <div class="inner-part">
+            <label for="imgTap" class="img">
+            <img class="img-3" src="https://res.cloudinary.com/muhammederdem/image/upload/v1535759872/kuldar-kalvik-799168-unsplash.jpg">
+            </label>
+            <div class="content content-3">
+               <span>26 December 2019</span>
+               <div class="title">
+                  Lorem Ipsum Dolor
+               </div>
+               <div class="text">
+                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod excepturi nemo commodi sint eum ipsam odit atque aliquam officia impedit.
+               </div>
+               <button>Read more</button>
+            </div>
+         </div>
+      </div>
+
+      style css
+
+      .blog-card{
+  position: absolute;
+  
+  height: 370px;
+  width: 100%;
+  max-width: 850px;
+  margin: auto;
+  border-radius: 25px;
+  background: white;
+  box-shadow: 0px 10px 50px rgba(252,56,56,.3);
+}
+.inner-part{
+  position: absolute;
+  display: flex;
+  height: 360px;
+  align-items: center;
+  justify-content: center;
+  padding: 0 25px;
+}
+#imgTap:checked ~ .inner-part {
+  padding: 0;
+  transition: .1s ease-in;
+}
+.inner-part .img{
+  height: 260px;
+  width: 260px;
+  flex-shrink: 0;
+  overflow: hidden;
+  border-radius: 20px;
+  box-shadow: 2px 3px 15px rgba(252,56,56,.1);
+}
+#imgTap:checked ~ .inner-part .img{
+  height: 370px;
+  width: 850px;
+  z-index: 99;
+  margin-top: 10px;
+  transition: .3s .2s ease-in;
+}
+.img img{
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  cursor: pointer;
+  opacity: 0;
+  transition: .6s;
+}
+#tap-1:checked ~ .inner-part .img-1,
+#tap-2:checked ~ .inner-part .img-2,
+#tap-3:checked ~ .inner-part .img-3{
+  opacity: 1;
+  transition-delay: .2s;
+}
+.content{
+  padding: 0 20px 0 35px;
+  width: 530px;
+  margin-left: 50px;
+  opacity: 0;
+  transition: .6s;
+}
+#imgTap:checked ~ .inner-part .content{
+  display: none;
+}
+#tap-1:checked ~ .inner-part .content-1,
+#tap-2:checked ~ .inner-part .content-2,
+#tap-3:checked ~ .inner-part .content-3{
+  opacity: 1;
+  margin-left: 0px;
+  z-index: 100;
+  transition-delay: .3s;
+}
+.content span{
+  display: block;
+  color: #7b7992;
+  margin-bottom: 15px;
+  font-size: 22px;
+  font-weight: 500
+}
+.content .title{
+  font-size: 30px;
+  font-weight: 700;
+  color: #0d0925;
+  margin-bottom: 20px;
+}
+.content .text{
+  color: #4e4a67;
+  overflow-wrap:break-word ;
+  font-size: 19px;
+  margin-bottom: 30px;
+  line-height: 1.5em;
+  text-align: justify;
+}
+.content button{
+  display: inline-flex;
+  padding: 15px 20px;
+  border: none;
+  font-size: 16px;
+  text-transform: uppercase;
+  color: #fff0e6;
+  font-weight: 600;
+  letter-spacing: 1px;
+  border-radius: 50px;
+  cursor: pointer;
+  outline: none;
+  border: 1px solid #fd3535;
+  background: linear-gradient(147deg, #fe8a39  0%, #fd3838 74%);
+}
+.content button:hover{
+  background: linear-gradient(147deg, #fe791b 0%, #fd1c1c 74%);
+}
+.sliders{
+  position: absolute;
+  bottom: 25px;
+  left: 65%;
+  transform: translateX(-50%);
+  z-index: 12;
+}
+#imgTap:checked ~ .sliders{
+  display: none;
+}
+.sliders .tap{
+  position: relative;
+  height: 10px;
+  width: 50px;
+  background: #d9d9d9;
+  border-radius: 5px;
+  display: inline-flex;
+  margin: 0 3px;
+  cursor: pointer;
+}
+.sliders .tap:hover{
+  background: #cccccc;
+}
+.sliders .tap:before{
+  position: absolute;
+  content: '';
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: -100%;
+  background: linear-gradient(147deg,#f6b323 0%, #f23b26 74%);
+  border-radius: 10px;
+  transform: scaleX(0);
+  transition: transform .6s;
+  transform-origin: left;
+}
+input[type="radio"],
+input[type="checkbox"]{
+  display: none;
+}
+#tap-1:checked ~ .sliders .tap-1:before,
+#tap-2:checked ~ .sliders .tap-2:before,
+#tap-3:checked ~ .sliders .tap-3:before{
+  transform: scaleX(1);
+  width: 100%;
+}
+
+product crad new 
+<div class="product-container">
+
+ 
+  <div class="product-card">
+    <img src="tedsmith.jpeg" alt="Product Name" class="product-image">
+    <h3 class="product-name">Product Name</h3>
+    <div class="product-price">$99.99</div>
+    <button class="add-to-cart-button">Shop Now</button>
+  </div>
+    
+    
+    
+    
+    
+    <div class="product-card">
+    <img src="mirrar.jpg" alt="Product Name" class="product-image">
+    <h3 class="product-name">Product Name</h3>
+    <div class="product-price">
+      <span class="discount-price">$79.99</span>
+    </div>
+    <button class="add-to-cart-button">shop now</button>
+  </div>
+
+    <div class="product-card">
+    <img src="loscumnn.jpg" alt="Product Name" class="product-image">
+    <h3 class="product-name">Product Name</h3>
+    <p class="product-description">Product Description</p>
+    <div class="product-price">$99.99</div>
+    <button class="add-to-cart-button">Add to Cart</button>
+  </div>
+   
+    
+    
+    
+      
+    
+    <div class="product-card">
+    <img src="airvue lens.jpeg" alt="Product Name" class="product-image">
+    <h3 class="product-name">Product Name</h3>
+    <p class="product-description">Product Description</p>
+   <div class="product-price">
+      <span class="original-price">$99.99</span>
+      <span class="discount-price">$79.99</span>
+    </div>  <button class="add-to-cart-button">Add to Cart</button>
+  </div>
+   </div> 
+
+
+
+   old code
+
+   <h3 class="service">Our Services</h3>
+<div class="container5">
+<div id="pic4">
+  <img src="Contact Lenses.jpeg" alt="" width="400px" height="400px">
+  <h4 class="cn1">Contact Lenses</h4>
+  <a href="" class="ln4">View Details</a>
+</div>
+<div id="pic5">
+  <img src="brunette-businesswoman-posing.jpg" alt="" width="400px" height="400px">
+  <h4 class="cn2">Eyeglasses</h4>
+  <a href="" class="ln5">View Details</a>
+</div>
+<div id="pic5">
+  <img src="RTA-approved-centre-UAE-OPTICS-1.jpg" alt="" width="400px" height="400px">
+  <h4 class="cn3">Eye Exams</h4>
+  <a href="" class="ln6">View Details</a>
+</div> 
+</div>
+
+<br><br><br><br>
+
+<section class="slider_containerbn2">
+  <section class="sliderb2">
+    <div class="slide one">
+      <img src="sunglasses bannerr.jpg" alt="">
+
+      
+    </div>
+    <div class="slide two">
+      <img src="eyglasses banner.jpg" alt="">
+     
+    </div>
+    <div class="slide three">
+      <img src="CONATCT LENS BANNER.jpg" alt="">
+      
+    </div>
+  </section>
+</section>
+
+<br> <br> <br>
+<h3>Testimonial</h3>
+<div class="main"></div>
+  <div class="testimonials">
+    <input type="radio" name="testimonial" id="input-testimonial1" checked>
+    <input type="radio" name="testimonial" id="input-testimonial2">
+    <input type="radio" name="testimonial" id="input-testimonial3">
+    <input type="radio" name="testimonial" id="input-testimonial4">
+    <div class="testimonials-inner">
+      <div class="testimonial">
+        <div class="testimonial-photo">
+          <div class="photo-background"></div>
+          <div class="photo-author"></div>
+        </div>
+        <div class="testimonial-text">
+          <p>Optic vogue has been a game-changer for me. As someone with astigmatism, finding the right lenses was always a struggle until I discovered Optic Vogue. Their precision in crafting lenses tailored to my needs has significantly improved my vision clarity. I highly recommend them!</p>
+        </div>
+        <div class="testimonial-author">Sundhar</div>
+      </div>
+      <div class="testimonial">
+        <div class="testimonial-photo">
+          <div class="photo-background"></div>
+          <div class="photo-author"></div>
+        </div>
+        <div class="testimonial-text">
+          <p>I've been using Optic Vogue's products for years now, and I can confidently say they offer the best quality lenses on the market. Whether it's daily wear or specialized lenses, their attention to detail and commitment to customer satisfaction is unparalleled."</p>
+        </div>
+        <div class="testimonial-author">sophia</div>
+      </div>
+      <div class="testimonial">
+        <div class="testimonial-photo">
+          <div class="photo-background"></div>
+          <div class="photo-author"></div>
+        </div>
+        <div class="testimonial-text">
+          <p>Optic Vogue's customer service is outstanding. I had some concerns about my prescription, and their team went above and beyond to ensure I got the perfect fit. Their dedication to customer care truly sets them apart..</p>
+        </div>
+        <div class="testimonial-author">Ram</div>
+      </div>
+      <div class="testimonial">
+        <div class="testimonial-photo">
+          <div class="photo-background"></div>
+          <div class="photo-author"></div>
+        </div>
+        <div class="testimonial-text">
+          <p>As a frequent traveler, having reliable contact lenses is essential for me. Optic Vogue's lenses not only provide exceptional vision correction but also withstand various environmental conditions with ease. From bustling city streets to windy beaches, I trust Ocular Vision to keep my vision clear wherever I go."</p>
+        </div>
+        <div class="testimonial-author">k.pooja</div>
+      </div>
+    </div>
+    <div class="testimonials-arrows">
+      <div class="arrow arrow-left">
+        <label for="input-testimonial1"></label>
+        <label for="input-testimonial2"></label>
+        <label for="input-testimonial3"></label>
+        <label for="input-testimonial4"></label>
+        <span></span>
+      </div>
+      <div class="arrow arrow-right">
+        <label for="input-testimonial1"></label>
+        <label for="input-testimonial2"></label>
+        <label for="input-testimonial3"></label>
+        <label for="input-testimonial4"></label>
+        <span></span>
+      </div>
+    </div>
+    <div class="testimonials-bullets">
+      <label for="input-testimonial1">
+        <div class="bullet">
+          <div>
+            <span></span>
+          </div>
+        </div>
+      </label>
+      <label for="input-testimonial2">
+        <div class="bullet">
+          <div>
+            <span></span>
+          </div>
+        </div>
+      </label>
+      <label for="input-testimonial3">
+        <div class="bullet">
+          <div>
+            <span></span>
+          </div>
+        </div>
+      </label>
+      <label for="input-testimonial4">
+        <div class="bullet">
+          <div>
+            <span></span>
+          </div>
+        </div>
+      </label>
+    </div>
+  </div>
+</div>
+
+<br><br><br><br><br>
+<div id="blogs">
+  <div class="blog-card">
+        <input type="radio" name="select" id="tap-1" checked>
+        <input type="radio" name="select" id="tap-2">
+        <input type="radio" name="select" id="tap-3">
+        <input type="checkbox" id="imgTap">
+        <div class="sliders">
+           <label for="tap-1" class="tap tap-1"></label>
+           <label for="tap-2" class="tap tap-2"></label>
+           <label for="tap-3" class="tap tap-3"></label>
+        </div>
+        <div class="inner-part">
+           <label for="imgTap" class="img">
+           <img class="img-1" src="blog1.jpg">
+           </label>
+           <div class="content content-1">
+              <span>May 28,2024</span>
+              <div class="title">
+                Benefits of Wearing Computer Glasses
+              </div>
+              <div class="text">
+                computer glasses can reduce eye fatigue discomfort
+              </div>
+              <button>Read more</button>
+           </div>
+        </div>
+        <div class="inner-part">
+           <label for="imgTap" class="img">
+           <img class="img-2" src="https://img.freepik.com/free-photo/pair-glasses-white-surface-with-blue-background_181624-21477.jpg?t=st=1726208220~exp=1726211820~hmac=b054312dd977167408cd43c6f687ae375d8f928c02885671e1d617f9c2b76325&w=1380">
+           </label>
+           <div class="content content-2">
+              <span>26 Feb 2024</span>
+              <div class="title">
+                tips to use power glasses 
+              </div>
+              <div class="text">
+                Clean your lenses regularly
+              </div>
+              <button>Read more</button>
+           </div>
+        </div>
+        <div class="inner-part">
+           <label for="imgTap" class="img">
+           <img class="img-3" src="blog 3.jpg">
+           </label>
+           <div class="content content-3">
+              <span>26 December 2019</span>
+              <div class="title">
+                Latest Trends in Eyewear Fashion
+              </div>
+              <div class="text">
+                Bold and Oversized Frames
+              </div>
+              <button>Read more</button>
+           </div>
+        </div>
+     </div></div>
+ 
+<br><br> <br>
+<div class="footer">
+  <div class="details">
+    <div class="folo">
+      <img src="logo 250.png"  class="fotlog" width="60px" height="60px">
+    </div>
+    <div class="address">
+      <img src="location.png" class="faic1" width="40px" height="40px">
+      <p class="cnt1">281/1, Bindhavan Street.New Fairlands Road,
+        <br>Opp To New Bustand Road,
+        <br>Coimbatore - 641012,</p>
+      </div><br>
+      <div class="mob">
+        <img src="telephone.png" class="faic2" width="40px" height="40px" >
+        <p class="cnt2">04237 43267</p>
+        </div><br>
+        <div class="email">
+          <img src="email.png" class="faic3" width="40px" height="40px">
+          <p class="cnt2">opticvogue21@gmail.com</p>
+          </div>
+          <div class="socialicons">
+            <figcaption>Follow Us</figcaption>
+            <figure>
+              <img src="instagram.png" class="ic1" width="36" height="36">
+              <img src="facebook.png" class="ic2" width="36" height="36">
+              <img src="twitter.png" class="ic3" width="36" height="36">
+              <img src="youtube.png" class="ic4" width="36" height="36">
+            </figure>
+
+            <div class="row">
+              <div class="footer-col">
+                <h4>SHOP</h4>
+                <ul>
+                  <li><a href="#">Women Eyeglasses</a></li>
+                  <li><a href="#">Men Eyeglasses</a></li>
+                  <li><a href="#">Perscription Glasses</a></li>
+                  <li><a href="#">Contact Lens</a></li>
+                </ul>
+              </div>
+              <div class="footer-col">
+                <h4>COMPANY</h4>
+                <ul>
+                  <li><a href="#">About </a></li>
+                  <li><a href="#">Contact</a></li>
+                  <li><a href="#">Blog</a></li>
+                  <li><a href="#">Privacy Policy</a></li>
+                </ul>
+              </div>
+              <div class="footer-col">
+                <h4>HELP & SUPPORT</h4>
+                <ul>
+                  <li><a href="#">Help center</a></li>
+                  <li><a href="#">FAQ's</a></li>
+                  <li><a href="#">ProductS</a></li>
+                  <li><a href="#">Services</a></li>
+                </ul>
+              </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="payments">
+            <figcaption class="pay">Payments</figcaption>
+            <figure class="payicons">
+              <img src="gpay.png" class="ic5" width="36" height="36" >
+              <img src="visa pay.png" class="ic6" width="36" height="36">
+              <img src="png-transparent-mastercard-credit-card-mastercard-logo-mastercard-logo-love-text-heart-thumbnail.png" class="ic7" width="36" height="36">
+              
+            </figure>
+
+
+            <figcaption class="pay">Download our app</figcaption>
+            <figure class="payicons">
+              <img src="gpay.png" class="ic5" width="36" height="36" >
+              <img src="visa pay.png" class="ic6" width="36" height="36">
+              
+            </figure>
+
+            </div>
+          </div>
+          
+    </div>
+
+</div>
+
+</div>
+
+
+<div class="product-container">
+
+ 
+  <div class="product-card">
+    <img src="tedsmith.jpeg" alt="Product Name" class="product-image">
+    <h3 class="product-name">Product Name</h3>
+    <div class="product-price">$99.99</div>
+    <button class="add-to-cart-button">Shop Now</button>
+  </div>
+    
+    
+    
+    
+    
+    <div class="product-card">
+    <img src="mirrar.jpg" alt="Product Name" class="product-image">
+    <h3 class="product-name">Product Name</h3>
+    <div class="product-price">
+      <span class="discount-price">$79.99</span>
+    </div>
+    <button class="add-to-cart-button">shop now</button>
+  </div>
+
+    <div class="product-card">
+    <img src="loscumnn.jpg" alt="Product Name" class="product-image">
+    <h3 class="product-name">Product Name</h3>
+    <p class="product-description">Product Description</p>
+    <div class="product-price">$99.99</div>
+    <button class="add-to-cart-button">Add to Cart</button>
+  </div>
+   
+    
+    
+    
+      
+    
+    <div class="product-card">
+    <img src="airvue lens.jpeg" alt="Product Name" class="product-image">
+    <h3 class="product-name">Product Name</h3>
+    <p class="product-description">Product Description</p>
+   <div class="product-price">
+      <span class="original-price">$99.99</span>
+      <span class="discount-price">$79.99</span>
+    </div>  <button class="add-to-cart-button">Add to Cart</button>
+  </div>
+   </div> 
+   
+  styles
+
+  .container5{
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+
+}
+#pic4,#pic5,#pic6{
+  -webkit-mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.906), rgba(0, 0, 0, 0.952));
+  mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.859), rgb(0, 0, 0));
+}
+.ln4,.ln5,.ln6{
+    
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-family: Montserrat;
+    font-weight: 500;
+    position: relative;
+    bottom: 70px;
+    left: 10px;
+    
+ 
+}
+.cn1,.cn2,.cn3{
+  font-size: 20px;
+  font-weight: 500px;
+  font-family:poppins;
+  position: relative;
+  bottom:80px;
+  margin-left: 10px;
+  color: white;
+}
+
+.ln4:hover,.ln5:hover,.ln6:hover{
+  color: black;
+}
+.slider_containerbn2 {
+  position: relative;
+  width: 100%;
+  
+  height: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  overflow: hidden;
+}
+
+.sliderb2 {
+  position: relative;
+  width: 400%;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  animation: 30s cubic-bezier(1, 0.95, 0.565, 1) sliding infinite;
+}
+
+.slide {
+  position: relative;
+  min-width: 100%;
+  height: 100%;
+}
+
+.slide img {
+  width: 100%;
+  height: 100%;
+}
+
+
+.slide.one {
+  background: rgb(255, 255, 255);
+}
+.slide.two {
+  background: rgb(255, 255, 255);
+}
+.slide.three {
+  background: rgb(255, 255, 255);
+}
+
+@keyframes sliding {
+  0% {
+    transform: translateX(0%);
+  }
+  20% {
+    transform: translateX(0%);
+  }
+  25% {
+    transform: translateX(-100%);
+  }
+  45% {
+    transform: translateX(-100%);
+  }
+  50% {
+    transform: translateX(-200%);
+  }
+  70% {
+    transform: translateX(-200%);
+  }
+  75% {
+    transform: translateX(-300%);
+  }
+  95% {
+    transform: translateX(-300%);
+  }
+  100% {
+    transform: translateX(-400%);
+  }
+}
+
+
+h5
+{
+  margin:0px;
+  font-size:1.4em;
+  font-weight:700;
+}
+
+p
+{
+  font-size:12px;
+}
+
+.center
+{
+  height:100vh;
+  width:100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* End Non-Essential  */
+
+.property-card
+{
+  height:18em;
+  width:14em;
+  display:-webkit-box;
+  display:-ms-flexbox;
+  display:flex;
+  -webkit-box-orient:vertical;
+  -webkit-box-direction:normal;
+  -ms-flex-direction:column;
+  flex-direction:column;
+  position:relative;
+  -webkit-transition:all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+  -o-transition:all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+  transition:all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+  border-radius:16px;
+  overflow:hidden;
+  -webkit-box-shadow:  15px 15px 27px #e1e1e3, -15px -15px 27px #ffffff;
+  box-shadow:  15px 15px 27px #e1e1e3, -15px -15px 27px #ffffff;
+}
+/* ^-- The margin bottom is necessary for the drop shadow otherwise it gets clipped in certain cases. */
+
+/* Top Half of card, image. */
+
+.property-image
+{
+  height:6em;
+  width:14em;
+  padding:1em 2em;
+  position:Absolute;
+  top:0px;
+  -webkit-transition:all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+  -o-transition:all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+  transition:all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+  background-image:url('https://cdn.photographylife.com/wp-content/uploads/2017/01/What-is-landscape-photography.jpg');
+  background-size:cover;
+  background-repeat:no-repeat;
+}
+
+/* Bottom Card Section */
+
+.property-description
+{
+  background-color: #FAFAFC;
+  height:12em;
+  width:14em;
+  position:absolute;
+  font-family: poppins;
+  bottom:0em;
+  -webkit-transition:all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+  -o-transition:all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+  transition:all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+  padding: 0.5em 1em;
+  text-align:center;
+}
+
+/* Social Icons */
+
+.property-social-icons
+{
+  width:1em;
+  height:1em;
+  background-color:black;
+  position:absolute;
+  bottom:1em;
+  left:1em;
+  -webkit-transition:all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+  -o-transition:all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+  transition:all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+
+/* Property Cards Hover States */
+
+.property-card:hover .property-description
+{
+  height:0em;
+  padding:0px 1em;
+}
+.property-card:hover .property-image
+{
+  height:18em;
+}
+
+.property-card:hover .property-social-icons
+{
+  background-color:white;
+}
+
+.property-card:hover .property-social-icons:hover
+{
+  background-color:blue;
+  cursor:pointer;
+}
+
+.property-image-title
+{
+text-align:center;
+position:Relative;
+top:30%;
+opacity:0;
+transition:all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1) 0.2s;
+color:black;
+font-size:1.2em;
+}
+
+.property-card:hover .property-image-title
+{
+opacity:1;
+}
+
+/* TESTIMONIALS */
+
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff3d0;
+  overflow: hidden;
+  height: 100vh;
+  width: 100vw;
+  position: relative;
+  top: 40px;
+}
+
+.testimonials {
+  background-color: #ffffff;
+  width: 100%;
+  max-width: 1000px;
+  margin: 20px;
+  box-shadow: 0 6px 5px -7px #cbcbcb;
+  border-radius: 10px;
+  position: relative;
+  left: 350px;
+  bottom: 600px;
+  opacity: 0;
+  animation: showTestimonials 0.32s 0.78s cubic-bezier(0.55, 0.055, 0.675, 0.19) forwards;
+  input {
+    display: none;
+    visibility: hidden;
+    height: 0;
+    width: 0;
+    pointer-events: none;
+    opacity: 0;
+  }
+}
+
+@keyframes showTestimonials {
+  to {
+    opacity: 1;
+  }
+}
+
+.testimonials-inner {
+  position: relative;
+  min-height: 100px;
+}
+
+.testimonial {
+  padding: 40px 34px 20px 34px;
+  margin: 0 30px;
+  pointer-events: none;
+  position: relative;
+  z-index: 1;
+}
+
+input[name="testimonial"]:nth-child(1):checked ~ .testimonials-inner .testimonial:nth-child(1),
+input[name="testimonial"]:nth-child(2):checked ~ .testimonials-inner .testimonial:nth-child(2),
+input[name="testimonial"]:nth-child(3):checked ~ .testimonials-inner .testimonial:nth-child(3),
+input[name="testimonial"]:nth-child(4):checked ~ .testimonials-inner .testimonial:nth-child(4) {
+  pointer-events: initial;
+}
+
+.testimonial {
+  transition: 0.72s cubic-bezier(0.215, 0.610, 0.355, 1), opacity 0.32s 0.12s;
+  opacity: 0;
+  transform: translate(0, 38px);
+  max-height: 80px;
+  animation: hideTestimonial 0s 0.52s forwards;
+  position: relative;
+}
+
+input[name="testimonial"]:nth-child(1):checked ~ .testimonials-inner .testimonial:nth-child(1),
+input[name="testimonial"]:nth-child(2):checked ~ .testimonials-inner .testimonial:nth-child(2),
+input[name="testimonial"]:nth-child(3):checked ~ .testimonials-inner .testimonial:nth-child(3),
+input[name="testimonial"]:nth-child(4):checked ~ .testimonials-inner .testimonial:nth-child(4) {
+  animation: showTestimonial 0s 0.72s forwards;
+  position: absolute;
+  opacity: 1;
+  transform: none;
+  max-height: 500px;
+  transition: 0.3s 0.52s, opacity 0.68s 0.92s, max-height 0.82s 0.72s;
+}
+
+@keyframes hideTestimonial {
+  to {
+    position: absolute
+  }
+}
+
+@keyframes showTestimonial {
+  to {
+    position: relative
+  }
+}
+
+input[name="testimonial"]:nth-child(1):checked ~ .testimonials-bullets label:nth-child(1) span,
+input[name="testimonial"]:nth-child(2):checked ~ .testimonials-bullets label:nth-child(2) span,
+input[name="testimonial"]:nth-child(3):checked ~ .testimonials-bullets label:nth-child(3) span,
+input[name="testimonial"]:nth-child(4):checked ~ .testimonials-bullets label:nth-child(4) span {
+  background-color: rgb(45, 34, 245);
+  transform: scale(1);
+  transition: transform 0.36s cubic-bezier(0.26, -0.59, 0.43, 2.48), background-color 0.41s ease-in;
+}
+
+.testimonial-photo {
+  height: 150px;
+  width: 150px;
+  position: absolute;
+  top: -32px;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+}
+
+.photo-background {
+  background-color: #ffffff;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  height: 100%;
+  box-shadow: 0 -4px 3px -2px #c3c2c2;
+  width: 100%;
+  transform: scale(0.87);
+  transition: 0.32s;
+}
+
+input[name="testimonial"]:nth-child(1):checked ~ .testimonials-inner .testimonial:nth-child(1) .photo-background,
+input[name="testimonial"]:nth-child(2):checked ~ .testimonials-inner .testimonial:nth-child(2) .photo-background,
+input[name="testimonial"]:nth-child(3):checked ~ .testimonials-inner .testimonial:nth-child(3) .photo-background,
+input[name="testimonial"]:nth-child(4):checked ~ .testimonials-inner .testimonial:nth-child(4) .photo-background {
+  transform: scale(1);
+  transition: 0s;
+}
+
+.photo-author {
+  background-size: 100px;
+  background-position: center;
+  height: 0;
+  width: 0;
+  border-radius: 50%;
+  background-color: #9a9a9a;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  margin: auto;
+  opacity: 0;
+  transform: scale(1.18) translate(0, -6px);
+  transition: transform 0.42s ease-out, opacity 0.58s, width 0s 0.6s, height 0s 0.6s;
+}
+
+input[name="testimonial"]:nth-child(1):checked ~ .testimonials-inner .testimonial:nth-child(1) .photo-author,
+input[name="testimonial"]:nth-child(2):checked ~ .testimonials-inner .testimonial:nth-child(2) .photo-author,
+input[name="testimonial"]:nth-child(3):checked ~ .testimonials-inner .testimonial:nth-child(3) .photo-author,
+input[name="testimonial"]:nth-child(4):checked ~ .testimonials-inner .testimonial:nth-child(4) .photo-author {
+  transform: scale(1);
+  opacity: 1;
+  height: 100%;
+  width: 100%;
+  transition: width 0.26s 1.01s, height 0.26s 1.01s;
+}
+
+.testimonial-text {
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  text-shadow: 0 0 1px #939393;
+  letter-spacing: 0.12px;
+  font-style: italic;
+  line-height: 26px;
+  p {
+    margin-top: 100px;
+    margin-bottom: 10px;
+    font-family: @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');;
+    font-size: 16px;
+
+  }
+}
+
+.testimonial-author {
+  font-size: 15px;
+  text-align: right;
+  font: ;
+  color: #0b0051;
+  font-family: poppins;
+  letter-spacing: 0.24px;
+  text-transform: uppercase;
+  text-shadow: 0 0 1px #e3e3e3;
+  &:before {
+    content: '– ';
+  }
+}
+
+.testimonials-bullets {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 30px;
+  transform: translate(0, 8px);
+  .bullet {
+    height: 30px;
+    width: 30px;
+    cursor: pointer;
+    margin: 0 1px;
+    div {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 30px;
+      width: 30px;
+      border-radius: 50%;
+      background-color: #ffffff;
+      box-shadow: 0 4px 6px -7px #000000;
+      span {
+        background-color: #c3c3c3;
+        height: 14px;
+        width: 14px;
+        border-radius: 50%;
+        transform: scale(0.82);
+        transition: 0.72s;
+      }
+    }
+    &:hover span {
+      background-color: rgb(48, 0, 160);
+    }
+  }
+}
+
+.testimonials-arrows {
+  height: 100%;
+  .arrow {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: calc(50% - 25px);
+    span {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color: #ffffff;
+      border-radius: 50%;
+      height: 40px;
+      width: 40px;
+      &:before {
+        font-size: 32px;
+        font-family: monospace, sans-serif;
+        font-weight: 600;
+        color: #c3c3c3;
+        transition: color 0.21s ease-in;
+      }
+    }
+    &:hover span:before {
+      color: #444444;
+      transition: color 0.17s ease-out;
+    }
+    label {
+      position: absolute;
+      left: 0;
+      top: 0;
+      height: 100%;
+      width: 100%;
+      cursor: pointer;
+    }
+  }
+  .arrow-left {
+    left: -20px;
+    span {
+      box-shadow: 40px 0 20px 20px #ffffff, -5px 0 30px 0px #e1e1e1;
+      &:before {
+        content: '<';
+      }
+    }
+  }
+  .arrow-right {
+    right: -20px;
+    span {
+      box-shadow: -40px 0 20px 20px #ffffff, 5px 0 30px 0px #e1e1e1;
+      &:before {
+        content: '>';
+      }
+    }
+  }
+}
+
+input[name="testimonial"]:nth-child(1):checked ~ .testimonials-arrows .arrow-left label[for="input-testimonial4"],
+input[name="testimonial"]:nth-child(1):checked ~ .testimonials-arrows .arrow-right label[for="input-testimonial2"],
+input[name="testimonial"]:nth-child(2):checked ~ .testimonials-arrows .arrow-left label[for="input-testimonial1"],
+input[name="testimonial"]:nth-child(2):checked ~ .testimonials-arrows .arrow-right label[for="input-testimonial3"],
+input[name="testimonial"]:nth-child(3):checked ~ .testimonials-arrows .arrow-left label[for="input-testimonial2"],
+input[name="testimonial"]:nth-child(3):checked ~ .testimonials-arrows .arrow-right label[for="input-testimonial4"],
+input[name="testimonial"]:nth-child(4):checked ~ .testimonials-arrows .arrow-left label[for="input-testimonial3"],
+input[name="testimonial"]:nth-child(4):checked ~ .testimonials-arrows .arrow-right label[for="input-testimonial1"] {
+  z-index: 1;
+}
+
+.testimonial:nth-child(1) .photo-author {
+  background-image: url(test\ person\ 1.jpg);
+  background-size: cover;
+}
+
+.testimonial:nth-child(2) .photo-author {
+  background-image: url(test\ 2.jpg);
+  background-size: cover;
+}
+
+.testimonial:nth-child(3) .photo-author {
+  background-image: url(test3.jpg);
+  background-size: cover;
+}
+
+.testimonial:nth-child(4) .photo-author {
+  background-image: url(test4.jpg);
+  background-size: cover;
+}
+
+
+/* blogs */
+.blog-card{
+  position: absolute;
+  height: 370px;
+  width: 100%;
+  max-width: 850px;
+  margin: auto;
+  border-radius: 25px;
+  background: white;
+  box-shadow: 0px 10px 50px rgba(252,56,56,.3);
+  
+}
+.inner-part{
+  position: absolute;
+  display: flex;
+  height: 360px;
+  align-items: center;
+  justify-content: center;
+  padding: 0 25px;
+}
+#imgTap:checked ~ .inner-part {
+  padding: 0;
+  transition: .1s ease-in;
+}
+.inner-part .img{
+  height: 260px;
+  width: 260px;
+  flex-shrink: 0;
+  overflow: hidden;
+  border-radius: 20px;
+  box-shadow: 2px 3px 15px rgba(252,56,56,.1);
+}
+#imgTap:checked ~ .inner-part .img{
+  height: 370px;
+  width: 850px;
+  z-index: 99;
+  margin-top: 10px;
+  transition: .3s .2s ease-in;
+}
+.img img{
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  cursor: pointer;
+  opacity: 0;
+  transition: .6s;
+}
+#tap-1:checked ~ .inner-part .img-1,
+#tap-2:checked ~ .inner-part .img-2,
+#tap-3:checked ~ .inner-part .img-3{
+  opacity: 1;
+  transition-delay: .2s;
+}
+.content{
+  padding: 0 20px 0 35px;
+  width: 530px;
+  margin-left: 50px;
+  opacity: 0;
+  transition: .6s;
+  overflow: hidden;
+}
+#imgTap:checked ~ .inner-part .content{
+  display: none;
+}
+#tap-1:checked ~ .inner-part .content-1,
+#tap-2:checked ~ .inner-part .content-2,
+#tap-3:checked ~ .inner-part .content-3{
+  opacity: 1;
+  margin-left: 0px;
+  z-index: 100;
+  transition-delay: .3s;
+}
+.content span{
+  display: block;
+  color: #7b7992;
+  margin-bottom: 15px;
+  font-size: 22px;
+  font-weight: 500
+}
+.content .title{
+  font-size: 30px;
+  font-weight: 700;
+  font-family: poppins;
+  color: #0d0925;
+  margin-bottom: 20px;
+}
+.content .text{
+  color: #4e4a67;
+  overflow-wrap:break-word;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 30px;
+  line-height: 1.5em;
+  text-align: center;
+  font-style: italic;
+}
+.content button{
+  display: inline-flex;
+  padding: 15px 20px;
+  border: none;
+  font-size: 16px;
+  text-transform: uppercase;
+  color: #fff0e6;
+  font-weight: 600;
+  letter-spacing: 1px;
+  border-radius: 50px;
+  cursor: pointer;
+  outline: none;
+  border: 1px solid #fd3535;
+  background: linear-gradient(147deg, #fe8a39  0%, #fd3838 74%);
+}
+.content button:hover{
+  background: linear-gradient(147deg, #fe791b 0%, #fd1c1c 74%);
+}
+.sliders{
+  position: absolute;
+  bottom: 25px;
+  left: 65%;
+  transform: translateX(-50%);
+  z-index: 12;
+}
+#imgTap:checked ~ .sliders{
+  display: none;
+}
+.sliders .tap{
+  position: relative;
+  height: 10px;
+  width: 50px;
+  background: #d9d9d9;
+  border-radius: 5px;
+  display: inline-flex;
+  margin: 0 3px;
+  cursor: pointer;
+}
+.sliders .tap:hover{
+  background: #cccccc;
+}
+.sliders .tap:before{
+  position: absolute;
+  content: '';
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: -100%;
+  background: linear-gradient(147deg,#f6b323 0%, #f23b26 74%);
+  border-radius: 10px;
+  transform: scaleX(0);
+  transition: transform .6s;
+  transform-origin: left;
+}
+input[type="radio"],
+input[type="checkbox"]{
+  display: none;
+}
+#tap-1:checked ~ .sliders .tap-1:before,
+#tap-2:checked ~ .sliders .tap-2:before,
+#tap-3:checked ~ .sliders .tap-3:before{
+  transform: scaleX(1);
+  width: 100%;
+}
+
+/* blogs */
+
+#blogs{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  font-family: 'Fira Sans', sans-serif;
+  background-color: #a8e1ff;
+  overflow-x: hidden;
+}
+  
+.blog-card{
+  position: relative;
+  height: 370px;
+  width: 95%;
+  max-width: 850px;
+  margin: auto;
+  border-radius: 25px;
+  background: rgb(255, 255, 255);
+  box-shadow: 0px 10px 50px rgba(252,56,56,.3);
+ 
+}
+.inner-part{
+  position: absolute;
+  display: flex;
+  height: 360px;
+  align-items: center;
+  justify-content: center;
+  padding: 0 25px;
+}
+#imgTap:checked ~ .inner-part {
+  padding: 0;
+  transition: .1s ease-in;
+}
+.inner-part .img{
+  height: 260px;
+  width: 260px;
+  flex-shrink: 0;
+  overflow: hidden;
+  border-radius: 20px;
+  box-shadow: 2px 3px 15px rgba(252,56,56,.1);
+}
+#imgTap:checked ~ .inner-part .img{
+  height: 370px;
+  width: 850px;
+  z-index: 99;
+
+  transition: .3s .2s ease-in;
+}
+.img img{
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  cursor: pointer;
+  opacity: 0;
+  transition: .6s;
+}
+#tap-1:checked ~ .inner-part .img-1,
+#tap-2:checked ~ .inner-part .img-2,
+#tap-3:checked ~ .inner-part .img-3{
+  opacity: 1;
+  transition-delay: .2s;
+}
+.content{
+  padding: 0 20px 0 35px;
+  width: 530px;
+  margin-left: 50px;
+  opacity: 0;
+  transition: .6s;
+  
+}
+#imgTap:checked ~ .inner-part .content{
+  display: none;
+}
+#tap-1:checked ~ .inner-part .content-1,
+#tap-2:checked ~ .inner-part .content-2,
+#tap-3:checked ~ .inner-part .content-3{
+  opacity: 1;
+  margin-left: 0px;
+  z-index: 100;
+  transition-delay: .3s;
+}
+.content span{
+  display: flex;
+  color: #7b7992;
+  margin-bottom: 15px;
+  font-size: 22px;
+  font-weight: 500;
+}
+.content .title{
+  font-size: 30px;
+  font-weight: 700;
+  color: #0d0925;
+  margin-bottom: 20px;
+}
+.content .text{
+  color: #000000;
+  font-size: 19px;
+  font-family: poppins;
+  margin-bottom: 30px;
+  line-height: 1.5em;
+  text-align: justify;
+white-space: nowrap;
+overflow-x: hidden;
+
+ 
+}
+.content button{
+  display: inline-flex;
+  padding: 15px 20px;
+  border: none;
+  font-size: 16px;
+  text-transform: uppercase;
+  color: #fff0e6;
+  font-weight: 600;
+  letter-spacing: 1px;
+  border-radius: 50px;
+  cursor: pointer;
+  outline: none;
+  border: 1px solid #fd3535;
+  background: linear-gradient(147deg, #fe8a39  0%, #fd3838 74%);
+}
+.content button:hover{
+  background: linear-gradient(147deg, #fe791b 0%, #fd1c1c 74%);
+}
+.sliders{
+  position: absolute;
+  bottom: 25px;
+  left: 65%;
+  transform: translateX(-50%);
+  z-index: 12;
+}
+#imgTap:checked ~ .sliders{
+  display: none;
+}
+.sliders .tap{
+  position: relative;
+  height: 10px;
+  width: 50px;
+  background: #d9d9d9;
+  border-radius: 5px;
+  display: inline-flex;
+  margin: 0 3px;
+  cursor: pointer;
+}
+.sliders .tap:hover{
+  background: #cccccc;
+}
+.sliders .tap:before{
+  position: absolute;
+  content: '';
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: -100%;
+  background: linear-gradient(147deg,#f6b323 0%, #f23b26 74%);
+  border-radius: 10px;
+  transform: scaleX(0);
+  transition: transform .6s;
+  transform-origin: left;
+}
+input[type="radio"],
+input[type="checkbox"]{
+  display: none;
+}
+#tap-1:checked ~ .sliders .tap-1:before,
+#tap-2:checked ~ .sliders .tap-2:before,
+#tap-3:checked ~ .sliders .tap-3:before{
+  transform: scaleX(1);
+  width: 100%;
+}
+
+/* footer */
+
+.footer{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+ margin-top: 40px;
+ }
+ .details{
+  
+  height: 100vh;
+  width: 100%;
+  background-color: #00023e;
+ }
+ .folo{
+  height: 80px;
+  width: 80px;
+  background-color: rgb(255, 255, 255);
+  position: relative;
+  align-items: center;
+  margin-top: 10px;
+  top: 28px;
+  left: 80px;
+ }
+ .fotlog{
+  margin-top: 20px;
+  left: 12px;
+  position: relative;
+  align-items: center;
+  bottom: 10px;
+  right: 2px;
+ }
+.cnt1,.cnt2,.cnt3{
+  font-size: 17px;
+  font-family: poppins;
+  position: relative;
+  top: 40px;
+  left: 60px;
+  color: white;
+}
+.address,.mob,.email{
+  margin-left: 20px;
+}
+.faic1{
+  position: relative;
+  top: 80px;
+
+}
+.faic2{
+  position: relative;
+  top: 80px;
+}
+.faic3{
+  position: relative;
+  top: 80px;
+}
+.cnt1:hover,.cnt2:hover,.cnt3:hover{
+  color: rgb(210, 210, 210);
+  cursor: pointer;
+
+}
+figcaption{
+  font-family: poppins;
+  font-size: 16px;
+  color: white;
+  display: flex;
+  position: relative;
+  left: 170px;
+  bottom: 20px;
+}
+.socialicons{
+  position: relative;
+  gap: 20px;
+  top:160px;
+}
+.ic1,.ic2,.ic3,.ic4:hover{
+  opacity: 0.8;
+}
+.ic1,.ic2,.ic3,.ic4{
+margin: 10px;
+}
+
+.payicons{
+  align-items: center;
+  position: relative;
+  left: calc(-850px);
+  top: 560px;
+  bottom: 40px;
+}
+.ic5,.ic6,.ic7{
+  margin: 10px;
+}
+.pay{
+  font-size: 16px;
+  font-family: poppins;
+  color: white;
+  position: relative;
+  left: calc(-800px);
+  top: 540px;
+}
+
+.row{
+	display: flex;
+	flex-wrap: wrap;
+}
+ul{
+	list-style: none;
+}
+.footer{
+	background-color:#00023e;
+    padding: 70px 0;
+
+}
+.footer-col{
+   width: 25%;
+   padding: 0 15px;
+   position: relative;
+   left: 600px;
+   bottom: 1300px;
+}
+.footer-col h4{
+	font-size: 18px;
+	color: #ffffff;
+	text-transform: capitalize;
+	margin-bottom: 35px;
+	font-weight: 500;
+  font-family: Montserrat;
+	position: relative;
+}
+.footer-col ul li:not(:last-child){
+	margin-bottom: 10px;
+}
+.footer-col ul li a{
+	font-size: 16px;
+	text-transform: capitalize;
+	color: #ffffff;
+	text-decoration: none;
+	font-weight: 300;
+	color: #ffffff;
+  align-items: left;
+	display: block;
+	transition: all 0.3s ease;
+}
+.footer-col ul li a:hover{
+	color: #d6d6d6;
+	padding-left: 8px;
+}
+/*responsive*/
+@media(max-width: 767px){
+  .footer-col{
+    width: 50%;
+    margin-bottom: 30px;
+}
+}
+@media(max-width: 574px){
+  .footer-col{
+    width: 100%;
+}
+}
